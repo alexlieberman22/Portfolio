@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>CSU Knit and Crochet</title>
+<!-- TemplateEndEditable -->
+<link href="../Main-style.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Josefin+Slab" rel="stylesheet">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+ 
+  <div id="top">
+    <div id="logo"><a href="index.html"><img src="../Optimized_pictures/srpgpa7yz4jtjhckbrkh.jpg" width="140" height="140" alt="CSU KNIT AND CROCHET CLUB"/></a> </div>
+    <div id="nav">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="Information.html">Information</a></li>
+    <li><a href="Projects.html">Projects</a></li> 
+    <li><a href="Resourses.html">Resourses</a></li> 
+    <li><a href="Newsletter.html">Newsletter</a></li> 
+    <li><a href="Contact.html">Contact</a></li>
+  </ul>
+    </div>
+  </div>
+  
+  <div id="wrapper">
+   
+  
+  <div id="blockA">
+  <!-- TemplateBeginEditable name="EditRegion1" -->
+    <h2>CSU Knitting and Crochet Club</h2>
+  <!-- TemplateEndEditable -->
+  </div>
+  <!-- TemplateBeginEditable name="EditRegion2" -->
+  <div id="blockB">
+    <div id="pic1"><img src="../Optimized_pictures/kghun4hzsfkn38myzznh.jpg" width="470" height="350" alt="Member picture"/></div>
+    <div id="welcome">
+	  <p>Welcome to the CSU Knit and Crochet Club!! Our website is where you will get updates about meetings, themes for projects, wise words from our one and only president and much more! This club is a place for you to relax and work on things you would like to work on. Remember that <strong>no experience is necessary</strong> and be sure to invite all your friends. We are happy to expand our Ramily and hope to see it continue to grow through this semester, year, and hopefully many years to come.</p>
+	</div>
+</div>
+  
+	<div id="blockC">
+	<div id="social">
+	  <h2> &nbsp; &nbsp; &nbsp; <span style="font-size: 24px">Follow us!</span></h2>
+	  <ul>
+	    <li>Facebook: </li>
+	    <a href="https://www.facebook.com/kc.club.313"><img src="../Optimized_pictures/bbedppktqvixie6fspme.png" width="60" height="59" alt="facebook"/></a><br>
+	      <br>
+        <li>Instagram: </li>
+        <a href="https://www.instagram.com/csukcclub/"><img src="../Images/Instagram-logo_edit.png" width="60" height="60" alt="twitter"/></a><br>
+	      <br>
+        <li>Ravelry Club Page: </li>
+		<a href="http://www.ravelry.com/people/CSUKCClub/new_library">http://www.ravelry.com/people/CSUKCClub/new_library
+	  	</a><br>
+	  	<br>
+	  	<li>Ravelry President Page: <a href="http://www.ravelry.com/people/tashareed/new_library">http://www.ravelry.com/people/tashareed/new_library</a></li></ul>
+	</div>	
+	</div>
+	<!-- TemplateEndEditable -->
+
+</div>
+	
+  <div id="nav2">
+	  <p> &nbsp; <strong>Navigation</strong></p>
+	  <ul>
+    	<li><a href="index.html">Home</a></li>
+    	<li><a href="Information.html">Information</a></li>
+    	<li><a href="Projects.html">Projects</a></li> 
+    	<li><a href="Resourses.html">Resourses</a></li> 
+    	<li><a href="Newsletter.html">Newsletter</a></li> 
+    	<li><a href="Contact.html">Contact</a></li>
+    	<li><a href="Founders.html">Founders</a></li>
+    	
+ 	 </ul>
+  <a href="https:www.colostate.edu"><img src="../Optimized_pictures/tgkm00tfvhxv7tat7zjc.wdp.png" width="200" height="72" alt="Colorado State Univercity"/></a> </div>
+	
+<div id="copyright">Copyright 2017 Alex Lieberman</div>
+
+
+
+
+</body>
+</html>
